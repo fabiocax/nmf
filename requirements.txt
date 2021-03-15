@@ -1,0 +1,6 @@
+fire==0.4.0
+python-geoip==1.2
+scapy==2.4.4
+six==1.15.0
+termcolor==1.1.0
+terminaltables==3.1.0
